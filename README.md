@@ -11,7 +11,7 @@ Roles:
 
 Carlos Navarro-Montanez: Underlying algorithms and SysML diagrams
 
-Cole McDonald: GUI and Algorithm Implementation
+Cole McDonald: GUI, Algorithm Implementation, Data Structure
 
 Scope:
 
